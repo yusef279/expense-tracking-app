@@ -24,7 +24,6 @@ android {
     namespace = "com.example.flutter_application_1"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
-    ndkVersion = "21.4.7075529
 
 
     compileOptions {
